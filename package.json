@@ -1,0 +1,23 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "scripts": {
+    "test": "censor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BecomingMyProDevSelf/Censor_Node"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "Roberto Lezama",
+  "license": "ISC"
+}

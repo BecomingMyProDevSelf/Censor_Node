@@ -1,2 +1,1 @@
-# Censor_Node
-Project for School
+ Read me Please
